@@ -287,6 +287,3 @@ Os arquivos `.tsp` são mantidos no formato original da TSPLIB, pois são arquiv
 * Gabriel de Oliveira Dalpian
 * Alexandre Keiti Fukamati
 
-
-
-e cola esse conteúdo inteiro lá.
