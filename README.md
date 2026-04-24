@@ -1,4 +1,3 @@
-````markdown
 # Algoritmo Genético para o Problema do Caixeiro Viajante (TSP)
 
 Este projeto foi desenvolvido para a disciplina de **Computação Evolutiva e Conexionista**. O objetivo é aplicar conceitos de Computação Evolutiva na resolução de um problema clássico de otimização combinatória: o **Problema do Caixeiro Viajante**, ou **Traveling Salesman Problem (TSP)**.
